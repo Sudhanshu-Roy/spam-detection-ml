@@ -21,6 +21,10 @@ Natural Language Processing (NLP) and Machine Learning.
 The dataset contains Categorized email messages as:
 - Ham
 - Spam
+- Following is the Bargraph of Category Distribution in Dataset
+- 
+  <img width="580" height="479" alt="image" src="https://github.com/user-attachments/assets/fd1c0669-ec6c-4eaa-b851-4626269e4362" />
+
 
 ## How to Run
 
