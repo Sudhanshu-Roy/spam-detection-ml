@@ -25,6 +25,11 @@ The dataset contains Categorized email messages as:
 - 
   <img width="580" height="479" alt="image" src="https://github.com/user-attachments/assets/fd1c0669-ec6c-4eaa-b851-4626269e4362" />
 
+## Logistic Regression model Confusion Matrix
+<img width="579" height="448" alt="image" src="https://github.com/user-attachments/assets/da268d73-1cbe-4087-b8f8-664345eb2055" />
+
+## Naive Bayes Model Confusion Matrix
+
 
 ## How to Run
 
