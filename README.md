@@ -27,10 +27,12 @@ The dataset contains labeled email messages as:
 1. Clone the repository
 ```bash
 git clone https://github.com/Sudhanshu-Roy/spam-detection-ml.git
+```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 3. Run the notebooks in order
 
 Result
