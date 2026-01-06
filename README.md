@@ -1,28 +1,28 @@
-# 📧 Spam Email Detection using Machine Learning
+# Spam Email Detection using Machine Learning
 
 This project builds a spam email detection system using 
 Natural Language Processing (NLP) and Machine Learning.
 
-## 🚀 Features
+## Features
 - Text preprocessing and cleaning
 - TF-IDF feature extraction
 - Logistic Regression and Naive Bayes models
 - Model evaluation using precision, recall, and F1-score
 - Custom email testing
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Scikit-learn
 - Pandas, NumPy
 - NLTK
 - TF-IDF Vectorizer
 
-## 📊 Dataset
-The dataset contains labeled email messages as:
-- 0 → Not Spam (Ham)
-- 1 → Spam
+## Dataset
+The dataset contains Categorized email messages as:
+- Ham
+- Spam
 
-## 🧪 How to Run
+## How to Run
 
 1. Clone the repository
 ```bash
