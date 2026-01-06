@@ -1,11 +1,11 @@
-# 📧 Spam Email Detection using Machine Learning
+#  Spam Email Detection using Machine Learning
 
 This project builds an end-to-end spam email detection system using 
 Natural Language Processing (NLP) and Machine Learning techniques to classify messages as **Spam** or **Not Spam (Ham)**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Text preprocessing and cleaning
 - TF-IDF feature extraction
 - Logistic Regression and Naive Bayes models
@@ -14,7 +14,7 @@ Natural Language Processing (NLP) and Machine Learning techniques to classify me
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python  
 - Scikit-learn  
 - Pandas, NumPy  
@@ -23,7 +23,7 @@ Natural Language Processing (NLP) and Machine Learning techniques to classify me
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The dataset contains categorized email messages labeled as:
 - **Ham** (Not Spam)
 - **Spam**
@@ -34,7 +34,7 @@ Below is the bar graph showing the distribution of spam and ham messages in the 
 
 ---
 
-## 📉 Model Evaluation
+##  Model Evaluation
 
 ### Logistic Regression – Confusion Matrix
 <img width="579" height="448" alt="Logistic Regression Confusion Matrix" src="https://github.com/user-attachments/assets/da268d73-1cbe-4087-b8f8-664345eb2055" />
